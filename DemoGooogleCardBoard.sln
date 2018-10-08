@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGooogleCardBoard", "DemoGooogleCardBoard.csproj", "{C836F792-CB99-F7F0-B3ED-0FDB583F4016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGooogleCardBoard.Editor", "DemoGooogleCardBoard.Editor.csproj", "{EC43B4BB-23DC-A72C-31F7-2DD5F69741C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C836F792-CB99-F7F0-B3ED-0FDB583F4016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C836F792-CB99-F7F0-B3ED-0FDB583F4016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C836F792-CB99-F7F0-B3ED-0FDB583F4016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C836F792-CB99-F7F0-B3ED-0FDB583F4016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC43B4BB-23DC-A72C-31F7-2DD5F69741C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC43B4BB-23DC-A72C-31F7-2DD5F69741C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC43B4BB-23DC-A72C-31F7-2DD5F69741C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC43B4BB-23DC-A72C-31F7-2DD5F69741C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
